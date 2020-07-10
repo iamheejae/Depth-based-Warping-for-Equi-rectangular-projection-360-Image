@@ -9,3 +9,10 @@ Warping source ERP to target ERP requires following 4 information.
 To run this code, please modify below paramters depend on your data. 
 - Maimum and minimum distance(R).
 - Camera position matrix of both souce and target(c_t, c_s)
+
+
+Heejae Kim
+
+Dept. of Electronic Engineering
+
+Ewha W. University, Seoul 03760, KOREA
