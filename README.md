@@ -11,8 +11,11 @@ To run this code, please modify below paramters depend on your data.
 - Camera position matrix of both souce and target(c_t, c_s)
 
 
+
+----------------------------------------------------------------------
 Heejae Kim
 
 Dept. of Electronic Engineering
 
 Ewha W. University, Seoul 03760, KOREA
+----------------------------------------------------------------------
