@@ -6,6 +6,8 @@ Warping source ERP to target ERP requires following 4 information.
 3) Source camera position
 4) Target camera position
 
+I use images from MPEG (data/ClassroomImage)
+
 To run this code, please modify below paramters depend on your data. 
 - Maimum and minimum distance(R).
 - Camera position matrix of both souce and target(c_t, c_s)
