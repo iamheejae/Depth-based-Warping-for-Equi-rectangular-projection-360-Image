@@ -1,4 +1,4 @@
-# Depth-based-Warping-Equi-rectangular-projection-360-Image
+# Depth-based-Warping-360-degree-Image-in-Equi-rectangular-Projection-Domain
 This is a MATLAB code to warp source Equi-rectangular projection(ERP) image to target ERP image with depth information.
 Warping source ERP to target ERP requires following 4 information.
 1) Source image
